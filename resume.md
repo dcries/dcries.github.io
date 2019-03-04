@@ -4,5 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-My resume
-
+[Resume](general_cv.pdf)
