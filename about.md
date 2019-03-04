@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[]("images/Ries Daniel.jpg")
+
 Some information about you!
 
 ### More Information
