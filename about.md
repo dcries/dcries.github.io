@@ -4,18 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<div style= "float:right;position: relative; top: -80px;">
 ![](images/Ries_Daniel_resize.jpg) 
-</div>
 
-My name is Daniel Ries and I am a Senior Statistician at Sandia National Laboratories in the Statistical Sciences Group. This makes a code chunk `lm(y~y)`
-
-This is an R code chunk
-
-```python
-m1 <- lm(y~z)
-summary(m1)
-```
+My name is Daniel Ries and I am a Senior Statistician at Sandia National Laboratories in the Statistical Sciences Group. 
 
 
 
