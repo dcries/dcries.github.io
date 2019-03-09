@@ -12,7 +12,7 @@ My name is Daniel Ries and I am a Senior Statistician at Sandia National Laborat
 
 This is an R code chunk
 
-```r
+```python
 m1 <- lm(y~z)
 summary(m1)
 ```
