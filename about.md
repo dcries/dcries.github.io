@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](images/Ries_Daniel.jpg =100x20)
+![](images/Ries_Daniel.jpg =100x20)
 
 Some information about you!
 
