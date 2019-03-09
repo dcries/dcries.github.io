@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](images/Ries_Daniel_resize.jpg) 
+% ![](images/Ries_Daniel_resize.jpg) 
 
 My name is Daniel Ries and I am a Senior Statistician at Sandia National Laboratories in the Statistical Sciences Group. 
 
